@@ -1,0 +1,7 @@
+## Interface: 80100
+## Title: ChatExtractor
+## Author: Prosper
+## Version: 0.1
+## SavedVariables: ExtractedData
+
+main.lua
